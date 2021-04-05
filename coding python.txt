@@ -3,5 +3,6 @@ hello world
 this is python code
 
 for i in range(10):
+	print('I am not so happy')
 	print('I am so happy today')
 
