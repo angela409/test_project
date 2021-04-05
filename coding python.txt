@@ -1,0 +1,7 @@
+hello world
+
+this is python code
+
+for i in range(10):
+	print('I am so happy today')
+
