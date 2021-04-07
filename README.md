@@ -1,12 +1,23 @@
 [//]: # (Image references)
 
 [slika_bg]: https://www.elegantthemes.com/blog/wp-content/uploads/2020/12/divi-video-parallax-overlay-featured-image.jpg
+[image1]: https://img.youtube.com/vi/2b2LPtljqdA/0.jpg
+[image2]: https://img.youtube.com/vi/2b2LPtljqdA/0.jpg
+[image3]: https://img.youtube.com/vi/2b2LPtljqdA/0.jpg
+
 
 
 # Project Documentation
 ---
 
 ## Introduction
+
+
+|Video 1| Video 2| Video 3 |
+|----|---|-----|
+| [![image1]](https://www.youtube.com/watch?v=2b2LPtljqdA) | [![image2]](https://www.youtube.com/watch?v=2b2LPtljqdA) | [![image3]](https://www.youtube.com/watch?v=2b2LPtljqdA)|
+
+
 
 **This is official implementation of *Resnet50* neural network**
 
