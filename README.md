@@ -47,7 +47,8 @@ a = 100
 
 ### Graphics
 ![slika_bg]
-![Opis na slika](documentation/center_2021_04_05_20_03_52_921.jpg)  
+
+![Opis na slika](https://static.wikia.nocookie.net/steamtradingcards/images/6/6b/A_Lenda_do_Her%C3%B3i_Background_Monte_Friaka.jpg/revision/latest/top-crop/width/300/height/300?cb=20160404031838)  
 
 <p align = "center">
 <img alt="Opis na slika" src = "documentation/center_2021_04_05_20_03_52_921.jpg" width="50%" height="50%" />
