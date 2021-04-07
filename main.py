@@ -4,7 +4,7 @@ for i in range(200):
     print("hello world", i)
     sum = sum+i
 
-a = 90
+a = 20
 b = 40
 
 output = (a+b)/4
