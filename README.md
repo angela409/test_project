@@ -42,6 +42,11 @@ a = 100
 
 ### Graphics
 ![Opis na slika](documentation/center_2021_04_05_20_03_52_921.jpg)  
+
+<p align = "center">
+<img alt="Opis na slika" src = "documentation/center_2021_04_05_20_03_52_921.jpg" width="50%" height="50%" />
+</p>
+  
 [Link](http://brainster.co)
 
 ### Table 
