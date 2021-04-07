@@ -7,6 +7,13 @@ for i in range(200):
 b = 100
 a = 100
 
-output = (a+b)/4
+BITEN KOD
 
-print(output)
+BITEN KOD
+BITEN KOD
+BITEN KOD
+BITEN KOD
+BITEN KOD
+BITEN KOD
+BITEN KOD
+BITEN KOD
