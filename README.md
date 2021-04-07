@@ -1,3 +1,8 @@
+[//]: # (Image references)
+
+[slika_bg]: https://www.elegantthemes.com/blog/wp-content/uploads/2020/12/divi-video-parallax-overlay-featured-image.jpg
+
+
 # Project Documentation
 ---
 
@@ -41,6 +46,7 @@ a = 100
 ## Accuracy 
 
 ### Graphics
+![slika_bg]
 ![Opis na slika](documentation/center_2021_04_05_20_03_52_921.jpg)  
 
 <p align = "center">
