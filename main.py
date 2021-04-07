@@ -5,7 +5,7 @@ for i in range(200):
     sum = sum+i
 
 a = 20
-b = 700
+b = 100
 
 output = (a+b)/4
 
